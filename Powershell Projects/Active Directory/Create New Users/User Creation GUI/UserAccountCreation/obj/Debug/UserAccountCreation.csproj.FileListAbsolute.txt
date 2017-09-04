@@ -1,0 +1,14 @@
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\bin\Debug\UserAccountCreation.exe.config
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\bin\Debug\UserAccountCreation.exe
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\bin\Debug\UserAccountCreation.pdb
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\MainWindow.g.cs
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\App.g.cs
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation_MarkupCompile.cache
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation_MarkupCompile.lref
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\MainWindow.baml
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.g.resources
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.Properties.Resources.resources
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.csproj.GenerateResource.Cache
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.exe
+G:\Visual Studio 2017\Projects\UserAccountCreation\UserAccountCreation\obj\Debug\UserAccountCreation.pdb
